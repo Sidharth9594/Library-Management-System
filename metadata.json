@@ -1,0 +1,6 @@
+{
+  "name": "Bibliotheca - Java Servlet & MySQL Library Management System",
+  "description": "Enterprise Online Library Management System with live Java Servlet lifecycle simulation, MySQL database workbench, catalog circulation, member management, and exportable Maven project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
